@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aug-project/static/css/main.605fe959.css",
+    "main.js": "/aug-project/static/js/main.10129f15.js",
+    "static/js/453.682f2bcc.chunk.js": "/aug-project/static/js/453.682f2bcc.chunk.js",
+    "static/media/logo.svg": "/aug-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aug-project/index.html",
+    "main.605fe959.css.map": "/aug-project/static/css/main.605fe959.css.map",
+    "main.10129f15.js.map": "/aug-project/static/js/main.10129f15.js.map",
+    "453.682f2bcc.chunk.js.map": "/aug-project/static/js/453.682f2bcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.605fe959.css",
+    "static/js/main.10129f15.js"
+  ]
+}
